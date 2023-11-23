@@ -1,0 +1,6 @@
+
+21-Jun-23 21:40:18 - INFO - RedditScrapper has STARTED
+21-Jun-23 21:40:18 - INFO - Database initial size: 966656
+21-Jun-23 21:58:11 - INFO - [2 HOUR PAUSE]
+21-Jun-23 23:58:11 - INFO - RedditScrapper STARTING IN 10 MINUTES
+21-Jun-23 23:58:11 - INFO - [Starting in 10 mins]
