@@ -5,7 +5,7 @@ Automatically Downloading Reddit Clips, merging them into compilations using FFM
 > [!IMPORTANT]
 > **PLEASE READ:** I uploaded this as a personal "archive" and to help others take ideas, Currently there are no Plans to Update or even Maintain this But at the end of this README i am gonna give some ideas to bypass possible issues.
 
-## Simple workflow Diagram of how the code worked (2022-2023)
+## Simple workflow Diagram (2022-2023)
 ![Youtube Compilation Uploader](https://github.com/EvanLei-git/YouTube-Uploader-for-Reddit-Compilations-POC/assets/71707767/f43ad688-8e4a-44e3-b4bc-6052697365e8)
 
 ### Why did i not use Google's API to upload my videos?
