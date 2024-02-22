@@ -9,7 +9,7 @@ Automatically Downloading Reddit Clips, merging them into compilations using FFM
 ![Youtube Compilation Uploader](https://github.com/EvanLei-git/YouTube-Uploader-for-Reddit-Compilations-POC/assets/71707767/f43ad688-8e4a-44e3-b4bc-6052697365e8)
 
 ### Why did i not use Google's API to upload my videos?
-I tried many times applying for a google api key from different accounts but after a week the api key wouldnt work, have issues or just be rejected.
+I tried to apply for a google api key multiple times and from different accounts but after a week the api key wouldnt work, have issues or just be rejected.
 
 
 ## Manual Work:
@@ -39,20 +39,20 @@ Channel Link: https://www.youtube.com/@Quirkitty/videos
 
 * Use [pullpush.io](https://www.pullpush.io/) instead of Pushshift.io
 
-> Because Pushshift.io is only available for mod accounts.
+> Because Pushshift.io is only available for "Reddit mod" accounts.
 
 * Use [SeleniumBase](https://github.com/seleniumbase/SeleniumBase) instead of  undetected-chromedriver
 
-> undetected-chromedriver is outdated, dev is rebuilding it from the ground up.(no deadline announced)
+> undetected-chromedriver was outdated and had issues for a long time now. (As of February 2024 new releases are coming out)
 
-OR instead of building your own youtube autoclicker, there are a few **Ready to Use** Scripts you can use.
+OR instead of building your own youtube autoclicker, there are a few **Ready to Use** scripts you can use.
 
 * [selenium_youtube](https://github.com/kkristof200/selenium_youtube) by kkristof200
 
 * [youtube_uploader_selenium](https://github.com/linouk23/youtube_uploader_selenium) by linouk23
 
 A different and more complicated way would be to use a **Portable browser** with a custom **Tampermonkey** script.
-The script would communicate with a simple **Flask server** to send the videos' path and information like title, description...
+The script would communicate with a simple **Flask server** to send the videos' path and information like title, description, etc ...
 While also achieving the autoclicking buttons part.
 
 ^ I would only recommend this if you are up for a challenge :)
